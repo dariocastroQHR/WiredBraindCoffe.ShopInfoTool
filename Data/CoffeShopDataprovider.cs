@@ -11,7 +11,7 @@ public class CoffeShopDataprovider
             new CoffeShop("Tegu",45),
             new CoffeShop("SPS",39),
             new CoffeShop("Sigua",25),
-             new CoffeShop("Copan",28)
+            new CoffeShop("Copan",28)
         };
     }
 }
